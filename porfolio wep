@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Portafolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>¡Hola! Soy Ceiba</h1>
+        <p>Desarrollador web en formación</p>
+    </header>
+
+    <section id="trabajar pues">
+        <h2>trabajar</h2>
+        <div class="proyecto">
+            <h3>ninguno</h3>
+            <p>youtube minudeb</p>
+        </div>
+        <div class="proyecto">
+            <h3><descargas>
+            <wow></wow></h3>
+            <p>Una galería simple usando Flexbox.</p>
+        </div>
+    </section>
+
+    <section id="contacto">
+        <h2>Ceiba</h2>
+        <form>
+            <input type= jose ceiba>
+            <input type="email joserafaelcg5@gmail.com>
+            <textarea placeholder="gracias por verlo"></textarea>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>Hecho con ❤️ por Ceiba</p>
+    </footer>
+
+</body>
+</html>
